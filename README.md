@@ -1,7 +1,3 @@
-# Reverse-a-string
-Reverse the provided string.
-
-You may need to turn the string into an array before you can reverse it.
-
-Your result must be a string.
-
+# Algorithms JavaScript
+## Find the Longest Word in a String
+Return the length of the longest word in the provided sentence.
