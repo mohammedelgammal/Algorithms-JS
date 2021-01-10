@@ -1,5 +1,5 @@
 # Algorithms JavaScript
 ## Find the Longest Word in a String
-### Here you can find out how?
-Return the length of the longest word in the provided sentence.
-[Longest Word](Longest Word/main.js)
+
+Return the length of the longest word in the provided sentence.[Longest Word](https://github.com/mohammedelgammal/Algorithms-JS/tree/main/Longest%20Word)
+
